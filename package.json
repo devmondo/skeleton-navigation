@@ -52,6 +52,7 @@
       "aurelia-http-client": "^0.4.3",
       "aurelia-router": "^0.5.1",
       "bootstrap": "^3.3.1",
+      "es6-shim": "^0.24.0",
       "font-awesome": "^4.2.0"
     }
   }

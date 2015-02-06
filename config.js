@@ -15,6 +15,7 @@ System.config({
     "aurelia-http-client": "github:aurelia/http-client@0.4.4",
     "aurelia-router": "github:aurelia/router@0.5.5",
     "bootstrap": "github:twbs/bootstrap@3.3.2",
+    "es6-shim": "github:es-shims/es6-shim@0.24.0",
     "font-awesome": "npm:font-awesome@4.3.0",
     "github:aurelia/binding@0.3.3": {
       "aurelia-dependency-injection": "github:aurelia/dependency-injection@0.4.2",

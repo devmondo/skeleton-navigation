@@ -1,3 +1,11 @@
+# aurelia-skeleton-navigation-IE-Polyfill
+
+Aurelia framework utilizes ES6 and and other future coding practices, therefore it will only work with evergreen browsers, that includes Google chrome, Mozila firefox, IE11,etc... therefore it wont work with any version of IE below 11.
+
+this repository serves as a prove of concept that by utilizing ES6Shim we will be able to make Aurelia based websites work with IE below version 11.0.
+
+so far i was able to test it and get it working with IE10 and IE9 without any noticeable problems, but there might be some performance issues due to the polyfills, so if anyone can test it, it would be great!
+
 # aurelia-skeleton-navigation
 
 This skeleton is part of the [Aurelia](http://www.aurelia.io/) platform. It sets up a standard navigation-style app using gulp to build your ES6 code with the 6to5 compiler. Karma/Jasmine testing is also configured.
